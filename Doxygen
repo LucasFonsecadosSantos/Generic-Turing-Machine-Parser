@@ -1,0 +1,4 @@
+PROJECT_NAME = Generic-Turing-Machine-Parser
+OUTPUT_DIRECTORY = docs
+INPUT = include
+RECURSIVE = yes
